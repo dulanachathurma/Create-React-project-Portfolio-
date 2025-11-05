@@ -1,0 +1,4 @@
+npm create vite@latest dulana-portfolio -- --template react
+cd dulana-portfolio
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
